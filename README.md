@@ -2,5 +2,5 @@
 
 **AI DISCLOSURE**
 
-I have used ChatGPT to debug the color changing algorithm as I used an easter egg palette instead of using random colors
+I have used ChatGPT to debug the color changing algorithm as I used a $\color{red}{\text{custom easter egg palette}}$ instead of using random colors
 
